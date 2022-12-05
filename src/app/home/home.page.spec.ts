@@ -22,3 +22,7 @@ describe('HomePage', () => {
     expect(component).toBeTruthy();
   });
 });
+
+function alerta(){
+  alert("HOla usuario");
+}
